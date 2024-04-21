@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafismahmudayon&label=Profile%20views&color=0e75b6&style=flat" alt="nafismahmudayon" /> </p>
 
-- 🔭 I’m currently working on [Post Grid Combo](https://getpostgrid.com/)
+- 🔭 I’m currently working on [Landing Page UI](https://ui.nafisbd.com/)
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://nafisbd.com](https://nafisbd.com)
 
-- 💬 Ask me about **HTML, CSS, JS, PHP**
+- 💬 Ask me about **HTML, CSS, JS, PHP, React, WordPress**
 
 - 📫 How to reach me **nafismahmudayon@gmail.com**
 
