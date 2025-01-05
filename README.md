@@ -7,7 +7,7 @@
 
 * 🌍 I'm based in Bangladesh
 
-* 🖥️ See my portfolio at [MafisBD](http://nafisbd.com)
+* 🖥️ See my portfolio at [NafisBD](http://nafisbd.com)
 
 * ✉️ You can contact me at [nafismahmudayon@gmail.com](mailto:nafismahmudayon@gmail.com)
 
