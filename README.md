@@ -14,6 +14,8 @@
 * 🚀 I'm currently working on [Aspect UI](http://nafisbd.com)
 
 * 🧠 I'm learning React JS, Next JS
+  
+* Open For Remote Job
 
 
 ### Skills
