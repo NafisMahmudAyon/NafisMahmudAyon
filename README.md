@@ -7,11 +7,11 @@
 
 * 🌍 I'm based in Bangladesh
 
-* 🖥️ See my portfolio at [NafisBD](http://nafisbd.com)
+* 🖥️ See my portfolio at [NafisBD](https://nafisbd.com)
 
 * ✉️ You can contact me at [nafismahmudayon@gmail.com](mailto:nafismahmudayon@gmail.com)
 
-* 🚀 I'm currently working on [Aspect UI](http://nafisbd.com)
+* 🚀 I'm currently working on [Aspect UI](https://aspect-ui.vercel.app/)
 
 * 🧠 I'm learning React JS, Next JS
   
